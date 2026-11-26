@@ -6212,3 +6212,6 @@ class _WaveBackgroundPainter extends CustomPainter {
   bool shouldRepaint(covariant _WaveBackgroundPainter oldDelegate) =>
       oldDelegate.showOrnaments != showOrnaments;
 }
+
+
+// wala lang
